@@ -1,1 +1,1 @@
-# book-appointments
+# schedule-appointments
