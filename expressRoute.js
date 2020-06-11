@@ -2,7 +2,6 @@
 
 const express = require('express'),
     router = express.Router();
-router.get('/getAuthor', require('./getAuthor'));
-router.post('/addAuthor', require('./addAuthor'));
+router.post('/schedule', require('./scheduleAppointment'));
 
 module.exports = router;

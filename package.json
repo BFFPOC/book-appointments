@@ -1,5 +1,5 @@
 {
-  "name": "simple-nodejs",
+  "name": "schedule-appointment",
   "version": "1.0.0",
   "description": "sample application",
   "main": "index.js",
@@ -11,6 +11,8 @@
   "dependencies": {
     "body-parser": "^1.17.2",
     "express": "4.15.3",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
     "sinon": "2.4.1",
     "tap": "10.7.0"
   }
