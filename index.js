@@ -1,7 +1,8 @@
 'use strict';
 
 const http = require('./httpserver');
+const Port = process.env.PORT || 1311
 
-http.listen('3000', function(req,res) {
+http.listen(Port, function (req, res) {
     console.log('helo I am new server');
 });
