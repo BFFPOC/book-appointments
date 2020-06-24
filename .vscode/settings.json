@@ -1,4 +1,4 @@
 {
-    "appService.defaultWebAppToDeploy": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/53c9005b-137e-45be-92ce-95da6a424d77/resourceGroups/BFFPOC/providers/Microsoft.Web/sites/demoschedule",
     "appService.deploySubpath": "."
 }
